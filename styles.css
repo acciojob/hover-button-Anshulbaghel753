@@ -3,10 +3,10 @@
 #btn{
 	background-color:black;
 	border-radius:5px;
-	font-colour:white;
+	font-color:white;
 }
 #btn:hover{
 	background-color:yellow;
 	border-radius:30px;
-	font-colour:white;
+	font-color:black;
 }
